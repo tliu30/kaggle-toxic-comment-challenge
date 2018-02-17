@@ -1,4 +1,6 @@
 venv
 data
 submissions
+embeddings
+external
 kg_scripts.sh
