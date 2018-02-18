@@ -1,5 +1,7 @@
 venv
 data
+nbs
+code/__pycache__
 submissions
 embeddings
 external
